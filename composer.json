@@ -1,0 +1,24 @@
+{
+  "name": "mtchabok/objects_relation",
+  "description": "PHP Objects Relation",
+  "type": "library",
+  "version": "0.1.0",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "readme": "README.md",
+  "keywords": ["PHP Objects Relation"],
+  "authors": [
+    {
+      "name": "Mohammad Taghi Chabok",
+      "email": "mtchabok@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mtchabok\\ObjectsRelation\\": "src/"
+    }
+  }
+}
